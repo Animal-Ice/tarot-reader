@@ -244,8 +244,10 @@ function createCardSlot(card) {
   cardElem.appendChild(inner);
   slot.appendChild(cardElem);
 
+  // --- CARD INFO (hidden by default) ---
   const info = document.createElement("div");
   info.className = "card-info";
+  info.style.display = "none";   // HIDE UNTIL FLIPPED
 
   const nameEl = document.createElement("div");
   nameEl.className = "card-name";
@@ -264,15 +266,20 @@ function createCardSlot(card) {
   info.appendChild(meaningEl);
   slot.appendChild(info);
 
+  // --- FLIP LOGIC ---
   let flipped = false;
   cardElem.addEventListener("click", () => {
     flipped = !flipped;
+
     if (flipped) {
       cardElem.classList.add("flipped");
+      info.style.display = "block";   // SHOW INFO
     } else {
       cardElem.classList.remove("flipped");
+      info.style.display = "none";    // HIDE INFO AGAIN
     }
   });
 
   return slot;
 }
+
