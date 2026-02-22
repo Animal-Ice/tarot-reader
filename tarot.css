@@ -227,13 +227,13 @@ button:hover {
 
 /* Staff (7–10) on the right */
 #celtic-pos-7 {
-  left: 85%;
+  left: 10%;
   top: 15%;
   transform: translate(-50%, -50%) scale(0.6);
 }
 
 #celtic-pos-8 {
-  left: 10%;
+  left: 85%;
   top: 35%;
   transform: translate(-50%, -50%) scale(0.6);
 }
@@ -266,6 +266,7 @@ button:hover {
 }
 
 /* Fan angles will be set via JS */
+
 
 
 
