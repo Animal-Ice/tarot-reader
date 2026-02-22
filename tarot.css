@@ -190,7 +190,7 @@ button:hover {
 
 /* Core cross (1–6) */
 #celtic-pos-1 {
-  left: 50%;
+  left: 10%;
   top: 45%;
   transform: translate(-50%, -50%) scale(0.6);
 }
@@ -227,7 +227,7 @@ button:hover {
 
 /* Staff (7–10) on the right */
 #celtic-pos-7 {
-  left: 10%;
+  left: 85%;
   top: 15%;
   transform: translate(-50%, -50%) scale(0.6);
 }
@@ -266,6 +266,7 @@ button:hover {
 }
 
 /* Fan angles will be set via JS */
+
 
 
 
