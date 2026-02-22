@@ -192,62 +192,62 @@ button:hover {
 #celtic-pos-1 {
   left: 30%;
   top: 45%;
-  transform: translate(-50%, -50%) scale(0.6);
+  transform: translate(-50%, -50%) scale(0.4);
 }
 
 #celtic-pos-2 {
   left: 30%;
   top: 45%;
-  transform: translate(-50%, -50%) rotate(90deg) scale(0.6);
+  transform: translate(-50%, -50%) rotate(90deg) scale(0.4);
 }
 
 #celtic-pos-3 {
   left: 30%;
   top: 90%;
-  transform: translate(-50%, -50%) scale(0.6);
+  transform: translate(-50%, -50%) scale(0.4);
 }
 
 #celtic-pos-4 {
   left: 30%;
   top: 20%;
-  transform: translate(-50%, -50%) scale(0.6);
+  transform: translate(-50%, -50%) scale(0.4);
 }
 
 #celtic-pos-5 {
   left: 10%;
   top: 45%;
-  transform: translate(-50%, -50%) scale(0.6);
+  transform: translate(-50%, -50%) scale(0.4);
 }
 
 #celtic-pos-6 {
   left: 50%;
   top: 45%;
-  transform: translate(-50%, -50%) scale(0.6);
+  transform: translate(-50%, -50%) scale(0.4);
 }
 
 /* Staff (7–10) on the right */
 #celtic-pos-7 {
   left: 85%;
   top: 15%;
-  transform: translate(-50%, -50%) scale(0.6);
+  transform: translate(-50%, -50%) scale(0.4);
 }
 
 #celtic-pos-8 {
   left: 65%;
   top: 35%;
-  transform: translate(-50%, -50%) scale(0.6);
+  transform: translate(-50%, -50%) scale(0.4);
 }
 
 #celtic-pos-9 {
   left: 85%;
   top: 55%;
-  transform: translate(-50%, -50%) scale(0.6);
+  transform: translate(-50%, -50%) scale(0.4);
 }
 
 #celtic-pos-10 {
   left: 65%;
   top: 75%;
-  transform: translate(-50%, -50%) scale(0.6);
+  transform: translate(-50%, -50%) scale(0.4);
 }
 
 
@@ -266,6 +266,7 @@ button:hover {
 }
 
 /* Fan angles will be set via JS */
+
 
 
 
