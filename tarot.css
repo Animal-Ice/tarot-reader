@@ -203,7 +203,7 @@ button:hover {
 
 #celtic-pos-3 {
   left: 50%;
-  top: 70%;
+  top: 90%;
   transform: translate(-50%, -50%) scale(0.6);
 }
 
@@ -215,7 +215,7 @@ button:hover {
 
 #celtic-pos-5 {
   left: 30%;
-  top: 45%;
+  top: 65%;
   transform: translate(-50%, -50%) scale(0.6);
 }
 
@@ -266,6 +266,7 @@ button:hover {
 }
 
 /* Fan angles will be set via JS */
+
 
 
 
