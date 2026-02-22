@@ -190,13 +190,13 @@ button:hover {
 
 /* Core cross (1–6) */
 #celtic-pos-1 {
-  left: 40%;
+  left: 35%;
   top: 45%;
   transform: translate(-50%, -50%) scale(0.4);
 }
 
 #celtic-pos-2 {
-  left: 40%;
+  left: 35%;
   top: 45%;
   transform: translate(-50%, -50%) rotate(90deg) scale(0.4);
 }
@@ -220,7 +220,7 @@ button:hover {
 }
 
 #celtic-pos-6 {
-  left: 60%;
+  left: 55%;
   top: 45%;
   transform: translate(-50%, -50%) scale(0.4);
 }
@@ -240,7 +240,7 @@ button:hover {
 
 #celtic-pos-9 {
   left: 85%;
-  top: 55%;
+  top: 65%;
   transform: translate(-50%, -50%) scale(0.4);
 }
 
@@ -266,6 +266,7 @@ button:hover {
 }
 
 /* Fan angles will be set via JS */
+
 
 
 
