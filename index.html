@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mystic Tarot Reader</title>
+  <link rel="stylesheet" href="tarot.css">
+</head>
+<body>
+  <div id="app">
+    <h1>Mystic Tarot Reader</h1>
+
+    <div id="controls">
+      <input id="questionInput" type="text" placeholder="Ask your question (optional)">
+      <div class="buttons">
+        <button id="btnOne">1 Card</button>
+        <button id="btnThree">3 Cards</button>
+        <button id="btnCeltic">Celtic Cross</button>
+        <button id="btnFan">Fan Pick‑Your‑Own</button>
+      </div>
+    </div>
+
+    <div id="questionDisplay"></div>
+
+    <div id="spreadArea">
+      <div id="oneCardSpread" class="spread"></div>
+      <div id="threeCardSpread" class="spread"></div>
+      <div id="celticSpread" class="spread"></div>
+      <div id="fanSpread" class="spread"></div>
+    </div>
+  </div>
+
+  <script src="tarot.js"></script>
+</body>
+</html>

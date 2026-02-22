@@ -1,0 +1,214 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: radial-gradient(circle at top, #1b1630, #05030a);
+  color: #f5f3ff;
+}
+
+#app {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+
+#controls {
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+#questionInput {
+  width: 80%;
+  max-width: 500px;
+  padding: 8px 10px;
+  border-radius: 4px;
+  border: 1px solid #555;
+  background: #120f22;
+  color: #f5f3ff;
+  margin-bottom: 10px;
+}
+
+#questionInput::placeholder {
+  color: #888;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+button {
+  padding: 8px 14px;
+  border-radius: 4px;
+  border: 1px solid #7b5cff;
+  background: #2a214a;
+  color: #f5f3ff;
+  cursor: pointer;
+  font-size: 14px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+button:hover {
+  background: #3a2b6a;
+}
+
+#questionDisplay {
+  text-align: center;
+  margin: 10px 0 20px;
+  font-style: italic;
+  color: #d0c7ff;
+}
+
+#spreadArea {
+  position: relative;
+  min-height: 500px;
+}
+
+/* Hide all spreads by default */
+.spread {
+  display: none;
+}
+
+/* Card layout base */
+
+.card-slot {
+  position: relative;
+  width: 150px;
+  height: 260px;
+  margin: 8px;
+}
+
+.card {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  perspective: 1000px;
+  cursor: pointer;
+}
+
+.card-inner {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.6s;
+}
+
+.card.flipped .card-inner {
+  transform: rotateY(180deg);
+}
+
+.card-face {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.6);
+}
+
+.card-face img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card-back {
+  background: #120f22;
+}
+
+.card-front {
+  transform: rotateY(180deg);
+  background: #120f22;
+}
+
+/* Card info */
+
+.card-info {
+  margin-top: 8px;
+  text-align: center;
+  max-width: 150px;
+}
+
+.card-name {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.card-orientation {
+  font-size: 12px;
+  color: #c9b8ff;
+}
+
+.card-meaning {
+  font-size: 12px;
+  margin-top: 4px;
+  color: #e7e1ff;
+}
+
+/* Spread layouts */
+
+#oneCardSpread {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 400px;
+}
+
+#threeCardSpread {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 24px;
+  min-height: 400px;
+}
+
+/* Celtic Cross approximate layout */
+
+#celticSpread {
+  position: relative;
+  min-height: 500px;
+}
+
+#celticSpread .card-slot {
+  position: absolute;
+}
+
+/* Positions (rough Celtic Cross) */
+#celtic-pos-1 { left: 40%; top: 35%; }
+#celtic-pos-2 { left: 46%; top: 35%; transform: rotate(90deg); }
+#celtic-pos-3 { left: 40%; top: 55%; }
+#celtic-pos-4 { left: 40%; top: 15%; }
+#celtic-pos-5 { left: 25%; top: 35%; }
+#celtic-pos-6 { left: 55%; top: 35%; }
+
+#celtic-pos-7 { left: 70%; top: 15%; }
+#celtic-pos-8 { left: 70%; top: 30%; }
+#celtic-pos-9 { left: 70%; top: 45%; }
+#celtic-pos-10 { left: 70%; top: 60%; }
+
+/* Fan spread */
+
+#fanSpread {
+  position: relative;
+  min-height: 400px;
+}
+
+#fanSpread .card-slot {
+  position: absolute;
+  left: 50%;
+  top: 55%;
+  transform-origin: bottom center;
+}
+
+/* Fan angles will be set via JS */

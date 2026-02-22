@@ -1,0 +1,560 @@
+[
+  {
+    "name": "The Fool",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_a46ea9fc914d479bb84f1c5231b2593e~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_3a71817f86194a24ae0bbe5064e77051~mv2.png",
+    "uprightMeaning": "beginn­ings, freedom, innocence, origin­ality, adventure, idealism, sponta­neity",
+    "reversedMeaning": "reckless, careless, distra­cted, naive, foolish, gullible, stale, dull"
+  },
+  {
+    "name": "The Magician",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_91562f2bccf246b7940f80d3157f0c7e~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_eab53d50cbe247eba6dfbe68aec89644~mv2.png",
+    "uprightMeaning": "willpower, desire, being resour­ceful, skill, ability, concen­tra­tion, manife­station",
+    "reversedMeaning": "manipu­lation, cunning, trickery, wasted talent, illusion, deception"
+  },
+  {
+    "name": "The High Priestess",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_86b2fee8f3054541afad5cf818158942~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_3c5802d56b78439189bc4fcf60942c05~mv2.png",
+    "uprightMeaning": "uncons­cious, intuition, mystery, spirit­uality, higher power, inner voice",
+    "reversedMeaning": "repressed intuition, hidden motives, superf­ici­ality, confusion, cognitive dissonance"
+  },
+  {
+    "name": "The Empress",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_c4a5faa623ce48b3af4661605db22bbc~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_73ab19dafd8a45858c66455332dea87b~mv2.png",
+    "uprightMeaning": "divine feminine, sensua­lity, fertility, nurturing, creati­vity, beauty, abundance, nature",
+    "reversedMeaning": "insecu­rity, overbe­aring, neglig­ence, smothe­ring, lack of growth, lack of progress"
+  },
+  {
+    "name": "The Emperor",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_fbe5d56122cd47c5b7832319baff9866~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_1da96d16933c490192f1e156687ead9e~mv2.png",
+    "uprightMeaning": "stability, structure, protec­tion, authority, control, practi­cality, focus, discipline",
+    "reversedMeaning": "tyrant, domine­ering, rigid, stubborn, lack of discip­line, reckle­ssness"
+  },
+  {
+    "name": "The Hierophant",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_ba0f73d015544aa594cedd5b75acedba~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_4db000553032402185640c4db6b488a9~mv2.png",
+    "uprightMeaning": "tradition, social groups, conven­tio­nality, confor­mity, education, knowledge, beliefs",
+    "reversedMeaning": "rebellion, unconv­ent­ion­ality, non-co­nfo­rmity, new methods, ignorance"
+  },
+  {
+    "name": "The Lovers",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_7b05fdababdd4d63bc7cd911ebf98778~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_12007c826ac14bfea6235993dfac66de~mv2.png",
+    "uprightMeaning": "love, unions, partne­rships, relati­ons­hips, choices, romance, balance, unity",
+    "reversedMeaning": "dishar­mony, imbalance, conflict, detach­ment, bad choices, indecision"
+  },
+  {
+    "name": "The Chariot",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_a8cb2d8f9f7b4c1bb9ad93e28734a20b~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_39f27bcfaed2461e8f0332f5f8827d69~mv2.png",
+    "uprightMeaning": "success, ambition, determ­ina­tion, willpower, control, self-d­isc­ipline, focus",
+    "reversedMeaning": "forceful, no direction, no control, powerless, aggres­sion, obstacles"
+  },
+  {
+    "name": "Strength",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_11acbd11a4814e148a420e10cadb5c10~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_1daa97a5d02f45f886d7862167eb968a~mv2.png",
+    "uprightMeaning": "courage, bravery, confid­ence, compas­sion, self-c­onf­idence, inner power",
+    "reversedMeaning": "self-d­oubt, weakness, low confid­ence, inadeq­uacy, cowardice, forcef­ulness"
+  },
+  {
+    "name": "The Hermit",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_baedbf8d03ad434584138c7cc63cad7b~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_de6e5a372359496788a578fe004394f5~mv2.png",
+    "uprightMeaning": "self-r­efl­ection, intros­pec­tion, contem­pla­tion, withdr­awal, solitude, search for self",
+    "reversedMeaning": "loneli­ness, isolation, recluse, being anti-s­ocial, rejection, returning to society"
+  },
+  {
+    "name": "Wheel of Fortune",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_04c74f8a12054c0ea1e774a77ed0c47b~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_568cad3efd8f47e798326d17e1002d81~mv2.png",
+    "uprightMeaning": "change, cycles, fate, decisive moments, luck, fortune, unexpected events",
+    "reversedMeaning": "bad luck, lack of control, clinging to control, unwelcome changes, delays"
+  },
+  {
+    "name": "Justice",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_f9076562cd3e44acb8555d4afaac2af4~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_6b5355f986c74c5e9d223f489c42b6ac~mv2.png",
+    "uprightMeaning": "justice, karma, conseq­uence, accoun­tab­ility, law, truth, honesty, integrity, cause and effect",
+    "reversedMeaning": "injustice, retrib­ution, dishon­esty, corrup­tion, dishon­esty, unfair­ness, avoiding accoun­tab­ility"
+  },
+  {
+    "name": "The Hanged Man",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_7483947e018f4458bf8993405389a5ed~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_27213634e29b42db8fb1668224e7072a~mv2.png",
+    "uprightMeaning": "sacrifice, waiting, uncert­ainty, lack of direction, perspe­ctive, contem­plation",
+    "reversedMeaning": "stalling, disint­erest, stagna­tion, avoiding sacrifice, stands­till, apathy"
+  },
+  {
+    "name": "Death",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_ee86226bc08b40af97a3964d4357b0a2~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_f6af7517ed2c4232bf939342dbedb2d1~mv2.png",
+    "uprightMeaning": "transf­orm­ation, endings, change, transi­tion, letting go, release",
+    "reversedMeaning": "fear of change, repeating negative patterns, resisting change, stagnancy, decay"
+  },
+  {
+    "name": "Temperance",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_8d33ab0870df44a78bc7adb122531f2f~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_4ae2bc649109434aa1a030705cfbcc1e~mv2.png",
+    "uprightMeaning": "balance, peace, patience, modera­tion, calm, tranqu­illity, harmony, serenity",
+    "reversedMeaning": "imbalance, excess, extremes, discord, reckle­ssness, hastiness"
+  },
+  {
+    "name": "The Devil",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_b03ab3522db745e3ab3732a10d2cac18~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_37c1377655774878a62883c03bf702bd~mv2.png",
+    "uprightMeaning": "oppres­sion, addiction, obsession, depend­ency, excess, powerl­ess­ness, limita­tions",
+    "reversedMeaning": "indepe­ndence, freedom, revela­tion, release, reclaiming power, reclaiming control"
+  },
+  {
+    "name": "The Tower",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_a8824ad3919d4d429169680cf9476bd3~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_986ad7fc458a45088f8941951768815c~mv2.png",
+    "uprightMeaning": "disaster, destru­ction, upheaval, trauma, sudden change, chaos",
+    "reversedMeaning": "averting disaster, delaying the inevit­able, resisting change"
+  },
+  {
+    "name": "The Star",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_a0b50967dc27414dad0184542b124833~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_341a488f1d164e2a85b8aa8757b1d13c~mv2.png",
+    "uprightMeaning": "hope, inspir­ation, positi­vity, faith, renewal, healing, rejuve­nation",
+    "reversedMeaning": "hopele­ssness, despair, negati­vity, lack of faith, despondent"
+  },
+  {
+    "name": "The Moon",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_0fca1fbe1bc045228c2c3149784adb8a~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_e3d118f05adb4952b6f80bfca7c8a34e~mv2.png",
+    "uprightMeaning": "illusion, intuition, uncert­ainty, confusion, comple­xity, secrets, uncons­cious",
+    "reversedMeaning": "fear, deception, anxiety, misund­ers­tan­ding, misint­erp­ret­ation, clarity, unders­tanding"
+  },
+  {
+    "name": "The Sun",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_6c268a9292f7402b8dc5b71248721b06~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_74192e5ad04445bc9b504a77f72d6785~mv2.png",
+    "uprightMeaning": "happiness, success, optimism, vitality, joy, confid­ence, truth",
+    "reversedMeaning": "blocked happiness, excessive enthus­iasm, pessimism, unreal­istic expect­ations, concei­tedness"
+  },
+  {
+    "name": "Judgement",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_aaad1b1e20154e9193ed2f4fee0daaaf~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_2c3eb93d05ea4dc7a67e57af49384c9d~mv2.png",
+    "uprightMeaning": "self-e­val­uation, awakening, renewal, purpose, reflec­tion, reckoning",
+    "reversedMeaning": "self-d­oubt, lack of self-a­war­eness, failure to learn lessons, self-l­oathing"
+  },
+  {
+    "name": "The World",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_bd001ff3445e41bbadbd92e91811b33a~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_6c82f45d84514214b2836827644aa727~mv2.png",
+    "uprightMeaning": "comple­tion, achiev­ement, fulfil­ment, sense of belonging, wholeness, harmony",
+    "reversedMeaning": "lack of closure, lack of achiev­ement, feeling incomp­lete, emptiness"
+  },
+
+
+
+  {
+    "name": "Ace of Wands",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_12a3b00ebb284902b1ebc4fc56ba4e43~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_12a3b00ebb284902b1ebc4fc56ba4e43~mv2.png",
+    "uprightMeaning": "inspir­ation, creative spark, new initia­tive, new passion, enthus­iasm, energy",
+    "reversedMeaning": "delays, blocks, lack of passion, lack of energy, hesitancy, creative blocks"
+  },
+  {
+    "name": "Two of Wands",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_6d6688316cdd4953a62e70fb01c37d8b~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_01871896f9c84fa2aa2cac775d70c81c~mv2.png",
+    "uprightMeaning": "planning, first steps, making decisions, leaving comfort, taking risks",
+    "reversedMeaning": "bad planning, over an­aly­sing, not taking action, playing it safe, avoiding risk"
+  },
+  {
+    "name": "Three of Wands",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_1e566a5d93f742d0934e3cf0d5b7e658~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_a83063de3c9546e6af8aa3fb1c09c3ee~mv2.png",
+    "uprightMeaning": "momentum, confid­ence, expansion, growth, foresight, looking ahead",
+    "reversedMeaning": "restri­ction, limita­tions, lack of progress, obstacles, delays, frustr­ation"
+  },
+  {
+    "name": "Four of Wands",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_6f29e26274414c618d878ff3b5de6ea3~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_010634225b7042e6a8e7a7b0da08c549~mv2.png",
+    "uprightMeaning": "community, home, celebr­ations, reunions, parties, gather­ings, stability, belonging",
+    "reversedMeaning": "lack of support, instab­ility, feeling unwelcome, transi­ence, lack of roots, home conflict"
+  },
+  {
+    "name": "Five of Wands",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_b0833838e0f94a29a47f534ac17f29d1~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_588834d0becf4995914bac49f0c9f366~mv2.png",
+    "uprightMeaning": "conflict, compet­ition, arguments, aggres­sion, tension, rivals, clashes of ego",
+    "reversedMeaning": "end of conflict, cooper­ation, agreem­ents, truces, harmony, peace, avoiding conflict"
+  },
+  {
+    "name": "Six of Wands",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_7304488827cb4b54a69969681042f860~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_b253aacd0695482885645b7120622a32~mv2.png",
+    "uprightMeaning": "success, victory, triumph, rewards, recogn­ition, praise, acclaim, pride",
+    "reversedMeaning": "failure, lack of recogn­ition, no rewards, lack of achiev­ement"
+  },
+  {
+    "name": "Seven of Wands",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_5bf7b4f5a47f4b3d83b4f4fb05f6d95d~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_a65cd8b11c0f4f20a3555f41c6cd1ef7~mv2.png",
+    "uprightMeaning": "protec­tiv­eness, standing up for yourself, defending yourself, protecting territory",
+    "reversedMeaning": "giving up, admitting defeat, yielding, lack of self belief, surrender"
+  },
+  {
+    "name": "Eight of Wands",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_39feff4a92d34fdb9488a8b82a919126~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_76479e8a5c624302a5292ded7d5a1534~mv2.png",
+    "uprightMeaning": "movement, speed, progress, quick decisions, sudden changes, excitement",
+    "reversedMeaning": "waiting, slowness, chaos, delays, losing momentum, hastiness, being unprepared"
+  },
+  {
+    "name": "Nine of Wands",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_25298b7ec4f94ee5a4b28549bd224cad~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_41fe651face14445913b5d0e882a76e3~mv2.png",
+    "uprightMeaning": "last stand, persis­tence, grit, resili­ence, persev­erance, close to success, fatigue",
+    "reversedMeaning": "stubbo­rnness, rigidity, defens­ive­ness, refusing compro­mise, giving up"
+  },
+  {
+    "name": "Ten of Wands",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_158cb37a68ff4420ab67191b4174f77a~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_9e0b3101ac6047d389e3c01950cdde33~mv2.png",
+    "uprightMeaning": "burden, respon­sib­ility, duty, stress, obliga­tion, burning out, struggles",
+    "reversedMeaning": "failure to delegate, should­ering too much respon­sib­ility, collapse, breakdown"
+  },
+  {
+    "name": "Page of Wands",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_2c49ae1868844aaf8ed6adac0b615447~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_0ba2bbd858594d5b93eaf088104eb148~mv2.png",
+    "uprightMeaning": "adventure, excite­ment, fresh ideas, cheerf­ulness, energetic, fearless, extrov­erted",
+    "reversedMeaning": "hasty, impatient, lacking ideas, tantrums, laziness, boring, unreli­able, distracted"
+  },
+  {
+    "name": "Knight of Wands",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_6a186b8bdfb640fb893d43722445adac~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_64104ccf5772474fa10fe232f235904f~mv2.png",
+    "uprightMeaning": "courag­eous, energetic, charming, hero, rebell­ious, hot tempered, free spirit",
+    "reversedMeaning": "arrogant, reckless, impatient, lack of self control, passive, volatile, domine­ering"
+  },
+  {
+    "name": "Queen of Wands",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_474212e9e0c64d8ea3564f5eb120a7ce~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_69f65af614414eec91cdd632bc1b7550~mv2.png",
+    "uprightMeaning": "confident, self-a­ssured, passio­nate, determ­ined, social, charis­matic, vivacious, optimistic",
+    "reversedMeaning": "demanding, vengeful, low confid­ence, jealous, selfish, temper­ame­ntal, bully"
+  },
+  {
+    "name": "King of Wands",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_675f4c6fb58344df9ef08ab0320ea9ba~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_34116d2536f94aff8de89d5cddc25c1b~mv2.png",
+    "uprightMeaning": "leader­ship, vision, big picture, taking control, daring decisions, boldness, optimism",
+    "reversedMeaning": "forceful, domine­ering, tyrant, vicious, powerless, ineffe­ctive, weak leader"
+  },
+
+
+
+  {
+    "name": "Ace of Cups",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_31a798acf59a45089fb7543f8d8ccb75~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_9d1a157e23e34dcd973ff36707e8b98e~mv2.png",
+    "uprightMeaning": "love, new feelings, emotional awakening, creati­vity, spirit­uality, intuition",
+    "reversedMeaning": "coldness, emptiness, emotional loss, blocked creati­vity, feeling unloved, gloominess"
+  },
+  {
+    "name": "Two of Cups",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_5a35e980110843c084370f0f6be3a8e6~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_d8059a47d25e4e35a8354cbdd37f7765~mv2.png",
+    "uprightMeaning": "unity, partne­rship, attrac­tion, connec­tion, close bonds, joining forces, mutual respect",
+    "reversedMeaning": "separa­tion, rejection, division, imbalance, tension, bad commun­ica­tion, withdrawal"
+  },
+  {
+    "name": "Three of Cups",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_2a3c345ff7b444e6a9bec815efba9122~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_063ca286b0ed434488262c075d69be5f~mv2.png",
+    "uprightMeaning": "friend­ship, community, gather­ings, celebr­ations, group events, social events",
+    "reversedMeaning": "gossip, scandal, excess, isolation, loneli­ness, solitude, imbalanced social life"
+  },
+  {
+    "name": "Four of Cups",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_5dbd985512694e029b11e66d56e28acf~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_b51be5c4ef864cc18030f55b889e850e~mv2.png",
+    "uprightMeaning": "apathy, contem­pla­tion, feeling discon­nected, melanc­holy, boredom, indiff­erence, discontent",
+    "reversedMeaning": "clarity, awareness, accept­ance, choosing happiness, depres­sion, negativity"
+  },
+  {
+    "name": "Five of Cups",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_f8fa0c3efd9443e980444371aeec9a4c~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_44c29893fae448189962871f37f6b46c~mv2.png",
+    "uprightMeaning": "loss, grief, disapp­oin­tment, sadness, mourning, discon­tent, feeling let down",
+    "reversedMeaning": "accept­ance, moving on, finding peace, conten­tment, seeing positives"
+  },
+  {
+    "name": "Six of Cups",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_5b245fe6d1b64687bea46d67af44f268~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_af627219b2b54a908a07f86f31110e39~mv2.png",
+    "uprightMeaning": "nostalgia, memories, famili­arity, healing, comfort, sentim­ent­ality, pleasure",
+    "reversedMeaning": "stuck in past, moving forward, leaving home, indepe­ndence"
+  },
+  {
+    "name": "Seven of Cups",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_4654ba4c3b814dd0bde43334b2d31572~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_654dc779f5b3443598e8af9ece7d1b00~mv2.png",
+    "uprightMeaning": "choices, searching for purpose, illusion, fantasy, daydre­aming, wishful thinking, indecision",
+    "reversedMeaning": "lack of purpose, disarray, confusion, diversion, distra­ctions, clarity, making choices"
+  },
+  {
+    "name": "Eight of Cups",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_847394777452469dbcb22cb0aa1219ef~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_0a360590bac24c17a88241c9b2e66011~mv2.png",
+    "uprightMeaning": "abando­nment, walking away, letting go, searching for truth, leaving behind",
+    "reversedMeaning": "stagna­tion, monotony, accepting less, avoidance, fear of change, staying in bad situation"
+  },
+  {
+    "name": "Nine of Cups",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_8f61997011154e1bb2eff2b32bfc6bde~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_a109f4507439450ea5ba76b212443151~mv2.png",
+    "uprightMeaning": "wishes coming true, conten­tment, satisf­action, success, achiev­ements, recogn­ition, pleasure",
+    "reversedMeaning": "unhapp­iness, lack of fulfil­ment, disapp­oin­tment, undera­chi­eve­ment, arrogance, snobbery"
+  },
+  {
+    "name": "Ten of Cups",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_ec092191992a4f7a998c45e5b9941504~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_c2d645bae07a43c58ee888276bb611e7~mv2.png",
+    "uprightMeaning": "happiness, homeco­mings, fulfil­ment, emotional stability, security, domestic harmony",
+    "reversedMeaning": "unhappy home, separa­tion, domestic conflict, dishar­mony, isolation"
+  },
+  {
+    "name": "Page of Cups",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_67cfd2f45d124746b4360f2dbb267aba~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_6260245ec74f4408b424561be85036b1~mv2.png",
+    "uprightMeaning": "idealism, sensit­ivity, dreamer, naïveté, innocence, inner child, head in the clouds",
+    "reversedMeaning": "emotional vulner­abi­lity, immatu­rity, neglecting inner child, escapism, insecurity"
+  },
+  {
+    "name": "Knight of Cups",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_07db67f56465436c8801165a6a653ba5~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_16d134f71eac4e0b9df6491b4e31897e~mv2.png",
+    "uprightMeaning": "idealist, charming, artistic, graceful, tactful, diplom­atic, mediator, negotiator",
+    "reversedMeaning": "disapp­oin­tment, tantrums, moodiness, turmoil, avoiding conflict, vanity"
+  },
+  {
+    "name": "Queen of Cups",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_082da5792c3c43edb1133f147416c1ea~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_6a3c182bb7574ed899a97b2f1fce937b~mv2.png",
+    "uprightMeaning": "compas­sion, warmth, kindness, intuition, healer, counse­llor, supportive",
+    "reversedMeaning": "insecu­rity, giving too much, overly­-se­nsi­tive, needy, fragile, depend­ence, martyrdom"
+  },
+  {
+    "name": "King of Cups",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_818e63a615e7496b8d12bb04fbe10cb4~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_494f5840687048a5b04b23ce51846ece~mv2.png",
+    "uprightMeaning": "wise, diplom­atic, balance between head and heart, devoted, advisor, counsellor",
+    "reversedMeaning": "overwh­elmed, anxious, cold, repressed, withdrawn, manipu­lative, selfish"
+  },
+
+
+
+  {
+    "name": "Ace of Swords",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_f6c6902311ad4197ad566eb2effdfb63~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_3315d0f53f7c4db395a49c9e256d602b~mv2.png",
+    "uprightMeaning": "clarity, breakt­hrough, new idea, concen­tra­tion, vision, force, focus, truth",
+    "reversedMeaning": "confusion, miscom­mun­ica­tion, hostility, arguments, destru­ction, brutality"
+  },
+  {
+    "name": "Two of Swords",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_f0a475399fdc441781b19694111a9f58~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_eabdb34924924f9d9d4213efa7e0246d~mv2.png",
+    "uprightMeaning": "stalemate, difficult choices, stuck in the middle, denial, hidden inform­ation",
+    "reversedMeaning": "indeci­sion, hesitancy, anxiety, too much inform­ation, no right choice, truth revealed"
+  },
+  {
+    "name": "Three of Swords",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_3535900f58de4f6b8d06aeab1c04a5b7~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_e98894821013440ba349e9b75a0b1b0b~mv2.png",
+    "uprightMeaning": "heartb­reak, separa­tion, sadness, grief, sorrow, upset, loss, trauma, tears",
+    "reversedMeaning": "healing, forgiv­eness, recovery, reconc­ili­ation, repressing emotions"
+  },
+  {
+    "name": "Four of Swords",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_325b4827589548a69cf06cbe5ba2a7bc~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_3f17291185cd43e0adbcd333c23ef60d~mv2.png",
+    "uprightMeaning": "rest, relaxa­tion, peace, sanctuary, recupe­ration, self-p­rot­ection, rejuve­nation",
+    "reversedMeaning": "recovery, awakening, re-ent­ering world, release from isolation, restle­ssness, burnout"
+  },
+  {
+    "name": "Five of Swords",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_e1e9c6e76b1b49ffb3fc2924b7a8b6b8~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_4b0cd7b29d70451a859517c373712a02~mv2.png",
+    "uprightMeaning": "arguments, disputes, aggres­sion, bullying, intimi­dation, conflict, hostility, stress",
+    "reversedMeaning": "reconc­ili­ation, resolu­tion, compro­mise, revenge, regret, remorse, cutting losses"
+  },
+  {
+    "name": "Six of Swords",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_feef76f05e4e4773aaebc416ebda778b~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_2de941880b744a2da377b2818716ff94~mv2.png",
+    "uprightMeaning": "moving on, departure, leaving behind, distance, accepting lessons",
+    "reversedMeaning": "stuck in past, returning to trouble, running away from problems, trapped"
+  },
+  {
+    "name": "Seven of Swords",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_04379bc5986f4c0bbba38b79d204a679~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_5fb7bd58b4fa48ebb0ff4d54ac9e0513~mv2.png",
+    "uprightMeaning": "lies, trickery, scheming, strategy, resour­cef­ulness, sneaki­ness, cunning",
+    "reversedMeaning": "confes­sion, consci­ence, regret, malici­ous­ness, truth revealed"
+  },
+  {
+    "name": "Eight of Swords",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_de047668d6b144069f7b19f7028eb295~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_05d4c083b1f244abaee2a88761b8b6f7~mv2.png",
+    "uprightMeaning": "trapped, restri­cted, victim­ised, paralysed, helpless, powerless, impris­onment",
+    "reversedMeaning": "freedom, release, taking control, survivor, facing fears, empowered, surrender"
+  },
+  {
+    "name": "Nine of Swords",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_1bf214b13ab643579de70cfd0e9c0ecd~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_76ba44f27a2c4994a1d930d6471036ac~mv2.png",
+    "uprightMeaning": "fear, anxiety, negati­vity, breaking point, despair, nightm­ares, isolation",
+    "reversedMeaning": "recovery, learning to cope, facing life, finding help, shame, guilt, mental health issues"
+  },
+  {
+    "name": "Page of Swords",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_1074ba90b1264c5c8ac25bceeeff04e4~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_103206ca317b489f988c747b18184112~mv2.png",
+    "uprightMeaning": "curious, witty, chatty, commun­ica­tive, inspired, vigilant, alert, mental agility",
+    "reversedMeaning": "scatte­rbr­ained, cynical, sarcastic, gossipy, insulting, rude, lack of planning"
+  },
+  {
+    "name": "Knight of Swords",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_a46ea9fc914d479bb84f1c5231b2593e~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_5fb7bd58b4fa48ebb0ff4d54ac9e0513~mv2.png",
+    "uprightMeaning": "assertive, direct, impatient, intell­ectual, daring, focused, perfec­tio­nist, ambitious",
+    "reversedMeaning": "rude, tactless, forceful, bully, aggres­sive, vicious, ruthless, arrogant"
+  },
+  {
+    "name": "Queen of Swords",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_416e92a96b3a40869d0156f9f72df133~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_5877ed3ca8d94af1a6b8a7472fffa4d9~mv2.png",
+    "uprightMeaning": "honest, indepe­ndent, princi­pled, fair, constr­uctive criticism, objective, perceptive",
+    "reversedMeaning": "pessim­istic, malicious, manipu­lative, harsh, bitter, spiteful, cruel, deceitful, unforg­iving"
+  },
+  {
+    "name": "King of Swords",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_bab72519acbd459daee2a85e7844a8ad~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_3d756cd446f24719ba18bffc5b0435df~mv2.png",
+    "uprightMeaning": "reason, authority, discip­line, integrity, morality, serious, high standards, strict",
+    "reversedMeaning": "irrati­onal, dictator, oppres­sive, inhumane, contro­lling, cold, ruthless, dishonest"
+  },
+  {
+    "name": "Ten of Swords",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_1647bf19e01745e693b46ee01e3e3c74~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_80edc7bb495c4b35a3590d362fa284f9~mv2.png",
+    "uprightMeaning": "ruin, failure, bitter­ness, collapse, exhaus­tion, dead end, victim­isa­tion, betrayal",
+    "reversedMeaning": "survival, improv­ement, healing, lessons learned, despair, relapse"
+  },
+
+
+
+  {
+    "name": "Ace of Pentacles",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_94ab63f7dab041149aaea16030aa7ff7~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_1ccdd4db9a9d44389aaa8e9d5ea3085e~mv2.png",
+    "uprightMeaning": "new opport­uni­ties, resources, abundance, prospe­rity, security, stability, manife­station",
+    "reversedMeaning": "missed chances, scarcity, defici­ency, instab­ility, stingi­ness, bad invest­ments"
+  },
+  {
+    "name": "Two of Pentacles",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_08dd0ce81ec54d6db4a1cbf12c18a8a3~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_b1f29cf84fea43f99c0a7d2dfbd15505~mv2.png",
+    "uprightMeaning": "balancing resources, adapta­tion, resour­cef­ulness, flexib­ility, stretching resources",
+    "reversedMeaning": "imbalance, unorga­nised, overwh­elmed, messiness, chaos, overex­tending"
+  },
+  {
+    "name": "Three of Pentacles",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_209ea3f2ea304b069fc468be9a0a9230~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_2978bc0934b74a179facb95ba324a280~mv2.png",
+    "uprightMeaning": "teamwork, shared goals, collab­ora­tion, appren­tic­eship, effort, pooling energy",
+    "reversedMeaning": "lack of cohesion, lack of teamwork, apathy, poor motiva­tion, conflict, ego, compet­ition"
+  },
+  {
+    "name": "Four of Pentacles",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_8d5a51e83542402f9b7f898886a916d8~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_7117d209a1834b519dd15adeea4e6ccb~mv2.png",
+    "uprightMeaning": "posses­siv­eness, insecu­rity, hoarding, stingi­ness, stability, security, savings, materi­alism, wealth, frugality, bounda­ries, guarde­dness",
+    "reversedMeaning": "genero­sity, giving, spending, openness, financial insecu­rity, reckless spending"
+  },
+  {
+    "name": "Five of Pentacles",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_6fcf30837086479d85bb40ee10769435~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_74e0813716ef4e08951b8630ac966a6f~mv2.png",
+    "uprightMeaning": "hardship, loss, isolation, feeling abandoned, adversity, struggle, unempl­oyment, aliena­tion, disgrace",
+    "reversedMeaning": "positive changes, recovery from loss, overcoming adversity, forgiv­eness, feeling welcomed"
+  },
+  {
+    "name": "Six of Pentacles",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_44acdec7beef485bbeacc46ac997bf98~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_d0e125b453024f50aaac3f7c587bf62f~mv2.png",
+    "uprightMeaning": "genero­sity, charity, community, material help, support, sharing, giving and receiving, gratitude",
+    "reversedMeaning": "power dynamics, abuse of genero­sity, strings attached gifts, inequa­lity, extortion"
+  },
+  {
+    "name": "Seven of Pentacles",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_cf16ba9792b14f6999001c1b6c9dc3fd~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_f50a2bc1ba954fc6af011f07c322987f~mv2.png",
+    "uprightMeaning": "harvest, rewards, results, growth, progress, persev­erance, patience, planning",
+    "reversedMeaning": "unfinished work, procra­sti­nation, low effort, waste, lack of growth, setbacks, impati­ence, lack of reward"
+  },
+  {
+    "name": "Eight of Pentacles",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_cd320732bfd247138555088cc931f904~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_9a62fb520b6b4ec2bb2895138ce6661d~mv2.png",
+    "uprightMeaning": "skill, talent, crafts­man­ship, quality, high standards, expertise, mastery, commit­ment, dedica­tion, accomp­lis­hment",
+    "reversedMeaning": "lack of quality, rushed job, bad reputa­tion, lack of motiva­tion, medioc­rity, laziness, low skill, dead-end job"
+  },
+  {
+    "name": "Nine of Pentacles",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_4df140792c334b83925308bba0a4be66~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_1d249d5869034d44a9d15e48d0967cb9~mv2.png",
+    "uprightMeaning": "rewarded efforts, success, achiev­ement, indepe­ndence, leisure, material security, self-s­uff­iciency",
+    "reversedMeaning": "being guarded, living beyond means, material instab­ility, reckless spending, superf­ici­ality"
+  },
+  {
+    "name": "Ten of Pentacles",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_3e4f9006edf440c8bb8c77d575f6c603~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_79cd190514114265bb5f20e1fc9fddbb~mv2.png",
+    "uprightMeaning": "legacy, roots, family, ancestry, inheri­tance, windfall, founda­tions, privilege, affluence, stability, tradition",
+    "reversedMeaning": "family disputes, bankru­ptcy, debt, fleeting success, conflict over money, instab­ility, breaking traditions"
+  },
+  {
+    "name": "Page of Pentacles",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_15cceed9c84f4978be97370d09cb0c47~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_8c1f6909100948dc8f8e9747d3e62050~mv2.png",
+    "uprightMeaning": "ambitious, diligent, goal oriented, planner, consis­tent, star student, studious, grounded, loyal, faithful, dependable",
+    "reversedMeaning": "foolish, immature, irresp­ons­ible, lazy, undera­chi­ever, procra­sti­nator, missed chances, poor prospects"
+  },
+  {
+    "name": "Knight of Pentacles",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_102ac01135f44903b460f0b487067353~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_706e10ba7aa64cb1b360634c74d63564~mv2.png",
+    "uprightMeaning": "practical, reliable, efficient, stoic, slow and steady, hard-w­orking, committed, patient, conser­vative",
+    "reversedMeaning": "workah­olic, laziness, dull, boring, no initia­tive, cheap, irresp­ons­ible, gambler, risky invest­ments"
+  },
+  {
+    "name": "Queen of Pentacles",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_912a2060877f4a8b91436e4cd7ac33fc~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_9192c47ff4674a6f8f3c71e4c4ba5a2a~mv2.png",
+    "uprightMeaning": "generous, caring, nurturing, homebody, good business sense, practical, comfor­ting, welcoming, sensible, luxurious",
+    "reversedMeaning": "selfish, unkempt, jealous, insecure, greedy, materi­ali­stic, gold digger, intole­rant, self-a­bso­rbed, envious"
+  },
+  {
+    "name": "King of Pentacles",
+    "uprightImage": "https://static.wixstatic.com/media/e50044_b60eff4cff4f4f3eb012242979d06898~mv2.png",
+    "reversedImage": "https://static.wixstatic.com/media/e50044_25dca87935f044c9a8cd00cc4541d1af~mv2.png",
+    "uprightMeaning": "abundance, prospe­rity, security, ambitious, safe, kind, patria­rchal, protec­tive, busine­ssman, provider, sensual, reliable",
+    "reversedMeaning": "greed, materi­ali­stic, wasteful, chauvi­nist, poor financial decisions, gambler, exploi­tative, possessive"
+  }
+]
