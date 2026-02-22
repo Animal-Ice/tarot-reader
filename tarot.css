@@ -183,8 +183,8 @@ button:hover {
 /* Only in Celtic: scale cards down so they fit nicely */
 #celticSpread .card-slot {
   position: absolute;
-  width: 300px;
-  height: 525px;
+  width: 150px;
+  height: 262.5px;
   transform-origin: center center;
 }
 
@@ -266,6 +266,7 @@ button:hover {
 }
 
 /* Fan angles will be set via JS */
+
 
 
 
