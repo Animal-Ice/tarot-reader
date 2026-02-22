@@ -173,29 +173,81 @@ button:hover {
   min-height: 400px;
 }
 
-/* Celtic Cross approximate layout */
+/* Celtic Cross layout for 300x525 cards */
 
 #celticSpread {
   position: relative;
-  min-height: 500px;
+  min-height: 1200px; /* gives room for tall cards */
 }
 
+/* All card slots inside Celtic Cross */
 #celticSpread .card-slot {
   position: absolute;
+  width: 300px;
+  height: 525px;
 }
 
-/* Positions (rough Celtic Cross) */
-#celtic-pos-1 { left: 40%; top: 35%; }
-#celtic-pos-2 { left: 46%; top: 35%; transform: rotate(90deg); }
-#celtic-pos-3 { left: 40%; top: 55%; }
-#celtic-pos-4 { left: 40%; top: 15%; }
-#celtic-pos-5 { left: 25%; top: 35%; }
-#celtic-pos-6 { left: 55%; top: 35%; }
+/* Core Cross (positions 1–6) */
+#celtic-pos-1 { 
+  left: 50%; 
+  top: 350px; 
+  transform: translateX(-50%); 
+}
 
-#celtic-pos-7 { left: 70%; top: 15%; }
-#celtic-pos-8 { left: 70%; top: 30%; }
-#celtic-pos-9 { left: 70%; top: 45%; }
-#celtic-pos-10 { left: 70%; top: 60%; }
+#celtic-pos-2 { 
+  left: calc(50% + 160px); 
+  top: 350px; 
+  transform: translateX(-50%) rotate(90deg); 
+}
+
+#celtic-pos-3 { 
+  left: 50%; 
+  top: 900px; 
+  transform: translateX(-50%); 
+}
+
+#celtic-pos-4 { 
+  left: 50%; 
+  top: -200px; 
+  transform: translateX(-50%); 
+}
+
+#celtic-pos-5 { 
+  left: calc(50% - 450px); 
+  top: 350px; 
+  transform: translateX(-50%); 
+}
+
+#celtic-pos-6 { 
+  left: calc(50% + 450px); 
+  top: 350px; 
+  transform: translateX(-50%); 
+}
+
+/* Staff (positions 7–10) */
+#celtic-pos-7 { 
+  left: calc(50% + 700px); 
+  top: -200px; 
+  transform: translateX(-50%); 
+}
+
+#celtic-pos-8 { 
+  left: calc(50% + 700px); 
+  top: 150px; 
+  transform: translateX(-50%); 
+}
+
+#celtic-pos-9 { 
+  left: calc(50% + 700px); 
+  top: 500px; 
+  transform: translateX(-50%); 
+}
+
+#celtic-pos-10 { 
+  left: calc(50% + 700px); 
+  top: 850px; 
+  transform: translateX(-50%); 
+}
 
 /* Fan spread */
 
@@ -212,3 +264,4 @@ button:hover {
 }
 
 /* Fan angles will be set via JS */
+
